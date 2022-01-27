@@ -1,2 +1,1 @@
-# kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+![Örnek Proje Resmi (Lisans Dosyası)](/lisans.png "Lisans Resmi")
